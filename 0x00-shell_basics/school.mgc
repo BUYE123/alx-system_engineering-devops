@@ -1,3 +1,4 @@
 #!/bin/bash
-0 string BRUK Bruk data
-!:mime Bruk
+0 string HOLBERTON Holberton data
+!:mime Holberton
+
